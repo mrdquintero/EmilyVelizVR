@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 71
+  controlID: 17
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 453
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 72
+  controlID: 23
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 73
+  controlID: 24
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/XR Device Simulator
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/XR Device Simulator
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\733072\Documents\Unity\GitHub\EmilyVelizVRV2\VRRoomEmily
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 251}
-    m_SelectedIDs: f0a60000
-    m_LastClickedID: 42736
-    m_ExpandedIDs: 00000000946c0000966c0000986c0000b66c0000b86c0000c26c0000c66c0000ca6e0000e6a60000eaa6000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: aa6c0000
+    m_LastClickedID: 27818
+    m_ExpandedIDs: 00000000aa6c0000606e0000867b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000946c0000966c0000986c0000
+    m_ExpandedIDs: 00000000aa6c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -451,7 +451,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 498
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -487,10 +487,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 25}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: cec3ffff2ccfffff10efffff2cfbffffd67100009c720000c2720000329b00000a9d00003c9e0000029f0000929f00000aa00000
+      m_ExpandedIDs: 9cd9ffff2efbffffe664000054650000ac7b00005e7d0000d87d0000927e0000587f0000e87f000060800000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -739,9 +739,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.1959176, y: 0.5528776, z: 0.31740475}
+    m_Target: {x: 1.5696753, y: 1.0397693, z: 0.10164595}
     speed: 2
-    m_Value: {x: 1.1959176, y: 0.5528776, z: 0.31740475}
+    m_Value: {x: 1.5696753, y: 1.0397693, z: 0.10164595}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -788,9 +788,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.15256654, y: -0.045080673, z: 0.00690964, w: 0.9873252}
+    m_Target: {x: 0.065095305, y: 0.3382143, z: -0.023646032, w: 0.9385509}
     speed: 2
-    m_Value: {x: 0.15254322, y: -0.04655771, z: 0.0071378835, w: 0.98717374}
+    m_Value: {x: 0.06512865, y: 0.33679548, z: -0.02354762, w: 0.9390275}
   m_Size:
     m_Target: 1.3897043
     speed: 2
