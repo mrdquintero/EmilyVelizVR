@@ -10648,7 +10648,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sound: {fileID: 8300000, guid: f0dff4da8e4204fe9b98afb911292ef2, type: 3}
-  volume: 1
+  volume: 0.05
   randomPitchVariance: 0
 --- !u!1001 &1228521749
 PrefabInstance:
@@ -11653,7 +11653,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: ef77e9bee03ff4bb5a41dbb472fc6e09, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.5
+  m_Volume: 0.05
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -14594,7 +14594,7 @@ MonoBehaviour:
   playAtStart: 0
   videoMaterial: {fileID: 0}
   videoClips:
-  - {fileID: 32900000, guid: 8cd99a81a5fad4847b8aa48a15272de0, type: 3}
+  - {fileID: 32900000, guid: 7c3626a2953c805429d4335468dd799a, type: 3}
 --- !u!328 &1620479845
 VideoPlayer:
   m_ObjectHideFlags: 0
@@ -15356,7 +15356,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 1e2f8e4b7debb4a4381a4a8a9fe6c7a9, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.3
+  m_Volume: 0.05
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -16329,7 +16329,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: ee779c45d530f5241a807ae9341d1e6b, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -18852,11 +18852,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 85097728234150908, guid: 523386755330448b19a21a0dfa93a499, type: 3}
       propertyPath: m_fontSize
-      value: 30
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 85097728234150908, guid: 523386755330448b19a21a0dfa93a499, type: 3}
       propertyPath: m_fontSizeBase
-      value: 30
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 85097728234150908, guid: 523386755330448b19a21a0dfa93a499, type: 3}
       propertyPath: m_HorizontalAlignment
@@ -18864,35 +18864,35 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 85097728234150910, guid: 523386755330448b19a21a0dfa93a499, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 141.96
+      value: 106.83
       objectReference: {fileID: 0}
     - target: {fileID: 85097728234150910, guid: 523386755330448b19a21a0dfa93a499, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 35.49
+      value: 26.71
       objectReference: {fileID: 0}
     - target: {fileID: 85097728234150910, guid: 523386755330448b19a21a0dfa93a499, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -476.6
+      value: -522.2
       objectReference: {fileID: 0}
     - target: {fileID: 85097728234150910, guid: 523386755330448b19a21a0dfa93a499, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 229.8
+      value: 294.1
       objectReference: {fileID: 0}
     - target: {fileID: 3793744207266193659, guid: 523386755330448b19a21a0dfa93a499, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 70.98
+      value: 53.41
       objectReference: {fileID: 0}
     - target: {fileID: 3793744207266193659, guid: 523386755330448b19a21a0dfa93a499, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 70.98
+      value: 53.41
       objectReference: {fileID: 0}
     - target: {fileID: 3793744207266193659, guid: 523386755330448b19a21a0dfa93a499, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -476.77002
+      value: -522.33
       objectReference: {fileID: 0}
     - target: {fileID: 3793744207266193659, guid: 523386755330448b19a21a0dfa93a499, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 215.90999
+      value: 282.55
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 523386755330448b19a21a0dfa93a499, type: 3}
